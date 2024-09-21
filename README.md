@@ -1,4 +1,4 @@
-<h2 align="center">Francisco Quezada Rivera<br>🆂🅾🅵🆃🆆🅰🆁🅴▉🅳🅴🆅🅴🅻🅾🅿🅴🆁▉🅹🆁<br>👾🇲🇽</h2>
+<h2 align="center">Francisco Quezada Rivera<br>Software developer JR<br>👾🇲🇽</h2>
 
 ###
 
