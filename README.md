@@ -1,5 +1,5 @@
 <h2 align="center">Francisco Quezada Rivera<br>Software developer JR<br>🇲🇽</h2>
-<h4  align="center"><em><b>"No cuentes los días, haz que los días cuenten." – Muhammad Ali"</b></h4>
+<h4  align="center"><em><b>"No cuentes los días, haz que los días cuenten. – Muhammad Ali"</b></h4>
 
 ### About me
 ```C#
@@ -7,7 +7,7 @@ var francisco = new List<object>
 {
     new List<string> { "He", "Him" }, // Pronouns
     new List<string> { "Java", "C#", "SQL", ".NET", "LINQ", "Kraken Framework" }, // BackEnd
-    new List<string> { "HTML5", "CSS3" }, // FrontEnd
+    new List<string> { "HTML5", "CSS3", "Blazor" }, // FrontEnd
     new List<string> { "NUnit", "NSubsitude" }, // Unit Tests
     new List<string> { "Git", "GitHub", "Tortoise Git", "Team City", GitHub Actions }, // CI/CD tools
     new List<string> { "Scrum", "Jira" }, // Agile
