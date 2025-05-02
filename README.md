@@ -1,4 +1,4 @@
-<h2 align="center">Francisco Quezada Rivera<br>Software developer JR<br>👾🇲🇽</h2>
+<h2 align="center">Francisco Quezada Rivera<br>Software developer JR<br>🇲🇽</h2>
 <h4  align="center"><em><b>"No cuentes los días, haz que los días cuenten." – Muhammad Ali"</b></h4>
 
 ### About me
